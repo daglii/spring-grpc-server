@@ -1,5 +1,5 @@
 # Spring gRPC Server
-GRPC communication between microservices.
+Insecure gRPC communication between microservices.
 
 ## Overview
 There are 3 types of gRPC connections:
