@@ -1,8 +1,7 @@
 # Spring gRPC Server
 GRPC communication between microservices.
 
-##Overview
-
+## Overview
 There are 3 types of gRPC connections:
 
 ### Insecure connection
@@ -20,7 +19,7 @@ The third and strongest type is connection secured by mutual TLS. We use it when
 - Grpc Server: Will be soon
 - Grpc Client: Will be soon
 
-##Getting Started
+### Getting Started
 Newer communication technology with high performance.
 * [gRPC](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc) More explanation about gRPC.
 
@@ -29,7 +28,11 @@ Newer communication technology with high performance.
 
 * **Milos Krsmanovic** - *Software Engineer* - [Dagli](https://github.com/daglii)
 
+## My projects
+Take a look at my other projects
 
+- Centralized Microservice Logging with Graylog [Graylog with Spring](https://github.com/daglii/graylog-spring)
+- GRPC Communication between Microservices [Grpc Server](https://github.com/daglii/spring-grpc-server) - [Grpc Client](https://github.com/daglii/spring-grpc-client)
 
 
 
