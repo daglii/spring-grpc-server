@@ -7,8 +7,8 @@ There are 3 types of gRPC connections:
 
 ### Insecure connection
 The first one is insecure connection, which we’ve been using since the beginning of this course. In this connection, all data transferred between client and server is not encrypted.
-- Grpc Server:
-- Grpc Client:
+- [Grpc Server](https://github.com/daglii/spring-grpc-server) Code example
+- [Grpc Client](https://github.com/daglii/spring-grpc-client) Code example
 
 ### Secured by server-side
 The second type is connection secured by server-side TLS. In this case, all the data is encrypted, but only the server needs to provide its TLS certificate to the client. You can use this type of connection if the server does not care which client is calling its API.
